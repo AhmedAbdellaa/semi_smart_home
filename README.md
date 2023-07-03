@@ -28,3 +28,4 @@
 - USART receiving data from pc and HC-05 in parallel using diodes to be able to receiving from two devices 
 - keypad share some pins with other components like Buzzer to prevent conflict while login transistor added
 
+![alt](./diagram.png)
