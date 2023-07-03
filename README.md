@@ -9,7 +9,7 @@
 
 ### components :
 * MCU : Atmega32
-* Hardware : CLCD ,KeyPad ,LM35 ,LDR ,DC Motor ,Servo Motor ,Ultrasonic ,PIR ,Bluetooth Module ,usb TTL
+* Hardware : CLCD ,KeyPad ,LED , BUZZER ,LM35 ,LDR ,DC Motor ,Servo Motor ,Ultrasonic ,PIR ,Bluetooth Module ,usb TTL
 * MCU Peripherals :Timer ,ICU ,ADC ,Interrupt ,USART
 
 ### vocal commands and buttons 
@@ -19,7 +19,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"control light using LDR" matching led intensity by surrounded light intensity
 - control DC motor (fan) with vocal : "fan on" and "fan off" <br>
     "control fan with ultrasonic" change fan speed depend on measured distance using ultrasonic<br>
-    "control fan with temperature"  turn on fan when the temperature exceed 35 degrees and stop when it is below 30
+    "control fan with temperature"turn on fan when the temperature exceed 35 degrees and stop when it is below 30
 - control buzzer tone with vocal : "play music" and "stop music" we can do any other command while music is playing or stop music any time
 
 ### notes
