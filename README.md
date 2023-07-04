@@ -27,5 +27,8 @@
 - [motor in ultrasonic ,servo motor ,and Buzzer ] : all used timer1 so if any of them has command to run will stop other and start to work
 - USART receiving data from pc and HC-05 in parallel using diodes to be able to receiving from two devices 
 - keypad share some pins with other components like Buzzer to prevent conflict while login transistor added
+### system diagram
+![alt](./images/diagram.png)
 
-![alt](./diagram.png)
+### collected data graph using python and plotly express
+![alt](./images/temp_lightGraph.png)
